@@ -6,3 +6,5 @@ dsharp_opac/data/*_highres.npz
 build/
 dsharp_opac/__pycache__/
 .ipynb_checkpoints/
+.DS_Store
+**/__pycache__/
